@@ -33,6 +33,7 @@ const Contact = () => {
                   placeholder="Name"
                   value={Name}
                   onChange={(e) => setName(e.target.value)}
+                  required
                 />
             </div>
           <div className="mb-3">
@@ -46,6 +47,7 @@ const Contact = () => {
               placeholder="@examplegmail.com"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
+              required
             />
           </div>
           <div className="mb-3">
@@ -59,6 +61,7 @@ const Contact = () => {
               placeholder="Enter Your Message Here"
               value={message}
               onChange={(e) => setMessage(e.target.value)}
+              required
             ></textarea>
           </div>
           <div className="text-center">
