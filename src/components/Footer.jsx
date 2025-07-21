@@ -35,12 +35,12 @@ const Footer = () => {
         </ul>
         <ul className="navbar-nav d-flex flex-row justify-content-around mx-5 gap-3">
           <li className="nav-item">
-            <a href="#" className="nav-link">
+            <a href="https://www.linkedin.com/in/prince-maurya-7826a7324/" className="nav-link">
               <FaLinkedinIn />
             </a>
           </li>
           <li className="nav-item">
-            <a href="#" className="nav-link">
+            <a href="https://github.com/alphatech774623/" className="nav-link">
               <FaGithub />
             </a>
           </li>

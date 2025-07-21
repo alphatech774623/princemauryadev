@@ -53,10 +53,10 @@ const Navbar = () => {
              <div className="justify-content-end">
                 <ul className="navbar-nav justify-content-end">
                     <li className="nav-item">
-                        <a href="#" className="nav-link"><FaLinkedinIn /></a>
+                        <a href="https://www.linkedin.com/in/prince-maurya-7826a7324/" className="nav-link"><FaLinkedinIn /></a>
                     </li>
                     <li className="nav-item">
-                         <a href="#" className="nav-link"><FaGithub /></a>
+                         <a href="https://github.com/alphatech774623/" className="nav-link"><FaGithub /></a>
                     </li>
                 </ul>  
              </div>
